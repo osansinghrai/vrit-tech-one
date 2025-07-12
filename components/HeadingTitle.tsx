@@ -8,7 +8,7 @@ const HeadingTitle = () => {
       </h2>
       <h1 className="text-6xl font-black tracking-tighter">
         <span className="text-black">Dive Into</span>{" "}
-        <span className="text-[#1DA077]">What's Hot Right Now!</span>
+        <span className="text-[#1DA077]">What's Hot Right Now! </span>
         <span>🔥</span>{" "}
       </h1>
     </div>
