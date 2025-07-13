@@ -2,7 +2,7 @@ import React from "react";
 
 const HeadingTitle = () => {
   return (
-    <div className="flex flex-col ml-55 mt-10 gap-4">
+    <div className="flex flex-col ml-[15rem] mt-10 gap-4">
       <h2 className="text-4xl font-extralight tracking-wide ">
         Explore our classes and master trending skills!
       </h2>
